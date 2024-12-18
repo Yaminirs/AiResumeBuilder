@@ -1,0 +1,12 @@
+# Ignore environment files
+.env
+
+# Ignore build output
+.next/
+
+# Ignore dependencies
+node_modules/
+
+# Ignore lock files
+package-lock.json
+yarn.lock
